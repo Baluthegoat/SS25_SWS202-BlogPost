@@ -1,9 +1,10 @@
 ---
 layout: '@/layouts/LandingLayout.astro'
-title: Nordlys
+title: Tashi Penjor
 background: true
 logo: true
 ---
+
 
 A minimal Astro blog theme.\
 Ideal for a personal [blog](/posts/) and showcasing a [projects](/projects/) portfolio.\
